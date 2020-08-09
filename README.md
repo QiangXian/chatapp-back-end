@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-注：前端已进行编译，并安装存放在public目录下。项目启动后，浏览器访问http://localhost:3000/即可打开项目。
+注：前端已进行编译，并安装存放在public目录下。项目启动后，浏览器访问`http://localhost:3000/`即可打开项目。
 
 # **聊天APP前瞻**
 
