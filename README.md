@@ -4,6 +4,20 @@
 
 socketio-01.js包含了socket.io的基本用法，结合01socketio内的网页可进行以Express框架为基础的简单的socket通信。
 
+## Project setup/项目依赖安装
+
+```
+npm install
+```
+
+## Project run/项目启动
+
+``` javascript
+npm start
+```
+
+注：前端已进行编译，并安装存放在public目录下。项目启动后，浏览器访问http://localhost:3000/即可打开项目。
+
 # **聊天APP前瞻**
 
 <img src="C:\Users\lenovo\Desktop\wolf.JPG" alt="wolf" style="height:100px;display:inline" />
