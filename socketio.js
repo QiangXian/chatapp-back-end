@@ -1,4 +1,4 @@
-const sqlQuery = require('./lcMysql');
+const sqlQuery = require('./jxjMysql');
 
 let socketio = {};
 
