@@ -1,3 +1,4 @@
+# 前端地址：https://github.com/QiangXian/chatapp
 # 聊天室后端
 
 技术栈：WebSocket(socket.io) + Express
