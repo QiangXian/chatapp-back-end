@@ -19,7 +19,7 @@ npm start
 
 注：前端已进行编译，并安装存放在public目录下。项目启动后，浏览器访问`http://localhost:3000/`即可打开项目。
 
-# **聊天APP前瞻**
+# **聊天WEB前瞻**
 
 <img src="C:\Users\lenovo\Desktop\wolf.JPG" alt="wolf" style="height:100px;display:inline" />
 
